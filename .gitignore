@@ -205,3 +205,18 @@ cython_debug/
 marimo/_static/
 marimo/_lsp/
 __marimo__/
+
+# ===== Custom project rules (BigData - AV1) =====
+
+# Dados brutos e processados
+dados/raw/*
+dados/processed/*
+dados/*.csv
+
+# Arquivos grandes
+*.csv
+*.zip
+*.parquet
+
+# Sistema (macOS)
+.DS_Store
