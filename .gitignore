@@ -211,7 +211,8 @@ __marimo__/
 # Dados brutos e processados
 dados/raw/*
 dados/processed/*
-dados/*.csv
+!dados/raw/.gitkeep
+!dados/processed/.gitkeep
 
 # Arquivos grandes
 *.csv
