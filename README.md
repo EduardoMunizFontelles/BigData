@@ -36,6 +36,7 @@ O objetivo dessa primeira etapa é construir uma base estruturada e limpa que pe
 - **Matplotlib / Seaborn**
 - **Git / GitHub**
 - **VS Code**
+- **Kaggle**
 
 ---
 
@@ -43,6 +44,13 @@ O objetivo dessa primeira etapa é construir uma base estruturada e limpa que pe
 - Eduardo Muniz Fontelles
 - Igor Amaral
 - Luis Adolfo
+
+---
+
+## Estado atual da pipeline:
+- Ingestão: ( ) Em progresso / (x) Finalizado / ( ) Pendente
+- Armazenamento: ( ) Em progresso / (x) Finalizado / ( ) Pendente
+- Transformação: ( ) Em progresso / (x) Finalizado / ( ) Pendente
 
 ---
 
