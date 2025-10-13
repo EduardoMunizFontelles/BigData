@@ -40,10 +40,10 @@ O objetivo dessa primeira etapa é construir uma base estruturada e limpa que pe
 
 ---
 
-## Equipe
-- Eduardo Muniz Fontelles
-- Igor Amaral
-- Luis Adolfo
+## Equipe (Divisão das tarefas)
+- Eduardo Muniz Fontelles (Ingestão, Camada Bronze e Ideação)
+- Igor Amaral (Transformação, Camada Silver e Ideação)
+- Luis Adolfo (Documentação e Ideação)
 
 ---
 
