@@ -59,4 +59,4 @@ O objetivo dessa primeira etapa é construir uma base estruturada e limpa que pe
 
 /src → scripts e notebooks de ingestão e transformação
 
-/documentacao → diagramas, PDFs e relatórios (ex: Documento de Arquitetura)
+/documentacao → diagramas, PDFs e relatórios (ex: Documento de Arquitetura da pipeline)
