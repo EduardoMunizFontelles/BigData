@@ -49,7 +49,7 @@ O objetivo dessa primeira etapa é construir uma base estruturada e limpa que pe
 
 ## Estado atual da pipeline
 - Ingestão: ( ) Em progresso / (x) Finalizado / ( ) Pendente
-- Armazenamento: ( ) Em progresso / (x) Finalizado / ( ) Pendente
+- Armazenamento: (X) Em progresso / () Finalizado / ( ) Pendente
 - Transformação: (x) Em progresso / () Finalizado / ( ) Pendente
 
 ---
